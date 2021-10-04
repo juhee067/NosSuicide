@@ -1,2 +1,2 @@
-# NosSuicide
-NosSuicide
+# NoSuicide
+NoSuicide
