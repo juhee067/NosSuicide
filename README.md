@@ -1,0 +1,2 @@
+# NosSuicide
+NosSuicide
