@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'RIDIBatang';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+                     }
+                     body{margin: 0;
+                   			 font-family:'RIDIBatang', '리디바탕', ng }
+
+
+.test {
+  max-width: 500px;
+  padding: 15px;
+  margin: auto;
+}
+
+
+
+.test-header, .test-descripton {
+  margin-bottom: 5px;
+}
+.test-button {
+  width:20%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
